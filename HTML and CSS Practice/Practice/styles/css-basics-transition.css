@@ -1,0 +1,35 @@
+.uber-button:hover{
+  opacity: 0.8;
+}
+.amazon-button:hover{
+  background-color:rgb(245, 205, 3);
+}
+.amazon-button:active{
+  opacity: 0.5;
+}
+.github-button:hover{
+  box-shadow: 0px 5px 8px rgb(0, 0, 0, 0.15);
+}
+.bootstrap-button:hover{
+  background-color: rgb(99, 60, 156);
+}
+.bootstrap2-button:hover{
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+.linkedln-button:hover{
+  background-color: rgb(2, 70, 138);
+}
+.linkedln2-button:hover{
+  background-color: rgb(226, 240, 254);
+  border-width: 2px;
+}
+.amazon-link:hover{
+  color: rgb(199, 81, 31);
+}
+.buy-now:hover{
+  background-color: rgb(250, 137, 0);
+}
+.buy-now:active{
+  opacity: 0.5;
+}

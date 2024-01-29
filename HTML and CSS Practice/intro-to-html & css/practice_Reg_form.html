@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML CSS Form Exercise</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Travel Registration Form</h1>
+        <h3>* denotes Mandotary</h3>
+        <form id="registration_form" method="post">
+            <label>Full name*:</label><br>
+            <input type="text" name="full_name" placeholder="Firstname Lastname" autofocus="autofocus" value=""><br>
+            <label>Email address*:</label><br>
+            <input type="text" name="email_addr" placeholder="johndoe@gmail.com" value=""><br>
+            <label>Select Tour Package*:</label><br>
+            <select name="package">
+                <option value="Select">Select</option>
+                <option value="Goa">Goa</option>
+                <option value="Kashmir">Kashmir</option>
+                <option value="Rajasthan">Rajasthan</option>
+            </select><br>
+            <label>Arrival Date*:</label><br>
+            <input type="text" name="arv_dt" placeholder="dd/mm/yyyy" value=""><br>
+            <label>Number of persons*:</label><br>
+            <input type="text" name="persons" placeholder="Enter the name" value=""><br>
+            <label>What would you want to avail?*</label><br>
+        </form>
+    </div>
+</body>
+</html>

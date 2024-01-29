@@ -1,0 +1,82 @@
+#uber{
+    background-color: rgb(0, 0,0);
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+  #uber:hover{
+    opacity: 0.8;
+  }
+  #amazon{
+    background-color: rgb(255, 216, 20);
+    color: rgb(0, 0,0);
+    border: none;
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  #amazon:hover{
+    background-color: rgb(218, 185, 17);
+  }
+  #GitHub{
+    background-color: rgb(46, 164, 79);
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 40px;
+    width: 90;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  #bootstrap{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  #bootDown{
+    background-color: white;
+    color: rgb(108, 117, 125);
+    font-weight: bold;
+    height: 40px;
+    width: 100px;
+    border: rgb(108, 117, 125);
+    border: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  #linkedln{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    height: 40px;
+    width: 220px;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  #linkSave{
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border: rgb(10, 102, 194);
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+  }

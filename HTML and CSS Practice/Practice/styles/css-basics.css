@@ -1,0 +1,91 @@
+.uber-button{
+  background-color: black;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.amazon-button{
+  background-color: rgb(255, 216, 20);
+  border: none;
+  border-radius: 20px;
+  padding: 8px 18px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.github-button{
+  background-color: rgb(46, 164, 79);
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+}
+.bootstrap-button{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.bootstrap2-button{
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-color: rgb(108, 117, 125);
+  border-width: thin;
+  padding: 6px 14px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+}
+.linkedln-button{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.linkedln2-button{
+  cursor: pointer;
+  background-color: white;
+  border-color: rgb(10, 102, 194);
+  color: rgb(10, 102, 194);
+  font-weight: bold;
+  border-width: 1.1px 1.1px;
+  padding: 6px 18px;
+  border-radius: 20px;
+  transition: background-color 0.15s, border-width 0.05s;
+}
+.chall-exe{
+  color: red; text-decoration: underline;
+    font-weight: bold;
+}
+.amazon-link{
+  color: rgb(0, 113, 133);
+}
+.buy-now{
+  background-color: rgb(255, 164, 28);
+  padding: 8px 25px;
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.stock{
+  color: rgb(0, 136, 0); font-weight: bold;
+}
+.text{
+  font-weight: bold; font-size: 25px;
+}
